@@ -1,44 +1,56 @@
-# Solmaz Sakhaei
+# Hi, I'm Solmaz! 🧪
 
-I am an M.Sc. Chemistry student at RPTU Kaiserslautern-Landau, based in Kaiserslautern, Germany. My main specialization module is Reactivity, Catalysis and Sustainability.
+🎓 M.Sc. Chemistry student at **RPTU Kaiserslautern-Landau**  
+📍 Based in **Kaiserslautern, Germany**
 
-## Education
+My studies focus on **Reactivity, Catalysis and Sustainability**. Alongside my coursework, I gain hands-on experience in research laboratories, from water analysis to biochemistry.
 
-- **M.Sc. Chemistry**, RPTU Kaiserslautern-Landau  
-  October 2024 – present · Expected graduation: September 2027
-- **B.Sc. Applied Chemistry**, University of Qom, Iran  
-  September 2017 – September 2021
+## 🎓 Education
 
-## Laboratory experience
+**M.Sc. Chemistry · RPTU Kaiserslautern-Landau**  
+October 2024 – present  
+Expected graduation: September 2027
+
+**B.Sc. Applied Chemistry · University of Qom, Iran**  
+September 2017 – September 2021
+
+## 🔬 In the lab
 
 **Student Research Assistant · Biochemistry research team, RPTU**  
 August 2026 – present
 
-Practical experience with gene expression-related work, culture preparation, and stopped-flow measurements.
+Working on tasks related to gene expression, culture preparation, and stopped-flow measurements.
 
 **Student Research Assistant · WIR – Wasser Infrastruktur Ressourcen**  
 May 2026 – September 2026
 
-Routine laboratory work in water treatment and analysis, with experience using TOC, DOC, IC, GC, and rapid tests.
+Routine water treatment and analysis laboratory work, with practical experience using TOC, DOC, IC, GC, and rapid tests.
 
-I have also completed a biochemistry laboratory course and am currently taking a technical chemistry laboratory course.
+## 🌱 Currently learning
 
-## Software
+I am taking a technical chemistry laboratory course after completing a biochemistry laboratory course.
 
-SigmaPlot · Microsoft Office
+## 💻 Tools I use
 
-## Publication
+- SigmaPlot
+- Microsoft Office
 
-Co-author of the review article:
+## 📄 Publication
 
-*Polymer supported copper complexes/nanoparticles for treatment of environmental contaminants*  
-Journal of Molecular Liquids, 2021  
-[DOI: 10.1016/j.molliq.2021.115668](https://doi.org/10.1016/j.molliq.2021.115668)
+I co-authored the review article:
 
-## Languages
+**Polymer supported copper complexes/nanoparticles for treatment of environmental contaminants**
 
-Persian: native · English: B2 · German: C1
+*Journal of Molecular Liquids · 2021*
 
-## Contact
+[Read the article →](https://doi.org/10.1016/j.molliq.2021.115668)
 
-[LinkedIn](https://www.linkedin.com/in/solmaz-sakhaei/)
+## 🌍 Languages
+
+🇮🇷 Persian · Native  
+🇬🇧 English · B2  
+🇩🇪 German · C1
+
+## 🔗 Find me on LinkedIn
+
+[Solmaz Sakhaei](https://www.linkedin.com/in/solmaz-sakhaei/)
